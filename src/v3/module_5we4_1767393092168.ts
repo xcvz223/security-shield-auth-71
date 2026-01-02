@@ -1,0 +1,1 @@
+const util_5we4 = (d: any) => d;
